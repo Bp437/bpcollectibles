@@ -56,6 +56,15 @@ h2{
 
 }
 
+.box2 .localBox{
+    display: inline-block;
+    text-align: left;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: calc(0.75rem + 1vw);
+
+}
+
 h5{
     text-align: center;
 
